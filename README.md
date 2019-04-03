@@ -1,26 +1,6 @@
 # Lab_3_UIComponent
 # 实验三：UI组件
 
-# 一、实验内容
-
-1、利用SimpleAdapter实现如下效果
-
-<image wide="300" height="400" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_3_1q.png">
-
-2、创建如图所示的自定义对话框
-
-<image wide="250" height="200" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_3_2q.png">
-
-3、使用XML定义菜单
-
-<image wide="300" height="400" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_3_3q.png">
-
-4、创建上下文操作模式的上下文菜单
-
-<image wide="300" height="400" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_3_4q.png">
-
-# 二、关键代码
-1、
 
 public class SimpleAdapterActivity extends AppCompatActivity {
 
@@ -351,10 +331,6 @@ public class XMLMenuActivity extends AppCompatActivity {
 <image wide="300" height="350" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_3_2a.jpg">
 
 3、
-
-<image wide="300" height="350" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_3_3a1.jpg">
-
-4、
 
 <image wide="300" height="350" src="https://github.com/jinrongrong815/img_folder/blob/master/lab_3_4a.jpg">
 
